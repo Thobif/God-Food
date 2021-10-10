@@ -1,0 +1,29 @@
+
+.body-god h1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.img-1 img{
+    height: 400px;
+    width: 500px;
+    margin: auto auto;
+    display: block;
+    border-radius: 25px;
+}
+
+.content {
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+/* index.html */
+
+
+
+
+
+/* curry.html */
